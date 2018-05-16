@@ -8,10 +8,13 @@ pediatric imaging neurocognition and genetics (ping)
 -----
 Collected across 9 US sites, based out of UCSD, PING comprises ~1500 subjects (aged 3-21y) with various imaging, cognitive and genetic data.
 
-##### imaging
+#### | imaging
 Subjects with imaging data usually have at least one of the following: 
 ⋅⋅⋅ + T1
+
 ⋅⋅⋅ + T2
+
 ⋅⋅⋅ + DWI (usually two 32-dir scans)
-⋅⋅⋅+ rsfMRI
+
+⋅⋅⋅ + rsfMRI
 
