@@ -1,6 +1,10 @@
-#### *nooralsh //* BRAINHACK SCHOOL MTL 2018
+### *nooralsh //* BRAINHACK SCHOOL MTL 2018
 
--- phd in progress, studying structural connectivity and cognition in development using dwi
+#####// background
 
-Pediatric Imaging Neurocognition and Genetics (PING)
+phd in progress, studying structural connectivity and cognition in development using dwi
+
+#####// Pediatric Imaging Neurocognition and Genetics (PING)
+-----
+
 
