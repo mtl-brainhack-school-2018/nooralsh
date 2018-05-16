@@ -6,7 +6,7 @@ phd in progress, studying structural connectivity and cognition in development u
 
 pediatric imaging neurocognition and genetics (ping)
 -----
-   Collected across 9 US sites, based out of UCSD, PING comprises ~1500 subjects (aged 3-21y) with various imaging, cognitive and genetic data.  
+⋅⋅⋅Collected across 9 US sites, based out of UCSD, PING comprises ~1500 subjects (aged 3-21y) with various imaging, cognitive and genetic data.⋅⋅ 
 
 #### | imaging
 Subjects were scanned on one of four 3T scanner types (Siemens, GE Discovery, GE Signa, Philips Achieva). Those with imaging data usually have at least one of the following: 
