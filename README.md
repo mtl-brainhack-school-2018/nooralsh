@@ -6,7 +6,7 @@ Currently a PhD student at McGill, studying structural connectivity and cognitio
 
 current project
 -----
-At McGill, my PhD project focuses on stuctural white matter development and how these changes relate to cognition. How does white matter connectivity as measured by imaging (T1, DWI, rsfMRI) underlie changes in behaviour? Do these structural changes have clusterable patterns? Can they be used as biological markers of maturity? Are certainstructural networks, if any, better for predicting age or cognitive ability? What white matter features underlie these relationships? Will I ever graduate??? Only time and a lot of grant rejections will tell.
+At McGill, my PhD project focuses on stuctural white matter development and how these changes relate to cognition. How does white matter connectivity as measured by imaging (T1, DWI, rsfMRI) underlie changes in behaviour? Do these structural changes have clusterable patterns? Can they be used as biological markers of maturity? Are certain structural networks, if any, better for predicting age or cognitive ability? What white matter features underlie these relationships? Will I ever graduate??? Only time and a lot of grant rejections will tell.
 
 To complete my project, I have employed the sort-of open source PING dataset, detailed below. I have structural data from CIVET 2.1 and DWI connectivity data from ndmg and Maxime Descoteaux's SCILPY pipeline.
 
