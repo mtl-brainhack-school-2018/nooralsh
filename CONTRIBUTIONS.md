@@ -4,7 +4,7 @@ I'm trying to learn how to:
 ### + Preprocess resting-state fMRI data
 **using NIAK, fMRIprep (& Docker) and/or CPAC**
 
-In addition to never having preprocessed an fMRI scan before, I have some extra "fun" issues with some of my scans (orientation/distortion) that need to be resolved. My data come from different scanners and locations which might mean using a different preprocessing pipelines/parameters per scanner.
+My PhD project focuses on multimodal connectivity in development and I would like to include the resting-state fMRI data along with my DWI volumes. I have never pre/processed an fMRI scan before and have some extra "fun" issues with some of my scans (orientation/distortion) that need to be resolved. My data come from different scanners and locations which might mean using a different preprocessing pipelines/parameters per scanner.
 
 ### + Analyse connectivity data
 **structural and functional connectivity using DWI + rsfMRI**
