@@ -2,7 +2,7 @@
 
 background
 -----
-Currently a PhD student at McGill, studying structural connectivity and cognition in development using DWI metrics. I began my career in neuroscience as an undergraduate student at the University of Manchester, UK where my focus was far more cellular/molecular. I decided the lab bench was not for me and sought out a career in neuroimaging upon graduating. I worked for 4 years as a research assistant in two neuroimaging labs at UCLA, firstly in a lab studying heritability of brain structure and then another developing image processing software BrainSuite. I scanned mice on a 7T Bruker Small Animal scanner, created a macaque segmentation atlas from scratch, processed T1s and DWIs from rodents, non-human primates and humans of all kinds, all while managing a bunch of rowdy undergrad volunteer researchers. I was introduced to basic programming, learned how to use a wide range of imaging tools, and acted as a sort of "imaging consultant" for BrainSuite users. But, despite all this growth, I decided it was time to move on to supposedly bigger and better things and so I came to grad school~*
+Currently a PhD student at McGill, studying structural connectivity and cognition in development using DWI metrics. I began my career in neuroscience as an undergraduate student at the University of Manchester, UK where my focus was far more cellular/molecular. I decided the lab bench was not for me and sought out a career in neuroimaging upon graduating. I [worked](https://github.com/mtl-brainhack-school-2018/nooralsh/blob/master/ABOUT_ME.md) for 4 years as a research assistant in two neuroimaging labs at UCLA, firstly in a lab studying heritability of brain structure and then another developing image processing software BrainSuite. I scanned mice on a 7T Bruker Small Animal scanner, created a macaque segmentation atlas from scratch, processed T1s and DWIs from rodents, non-human primates and humans of all kinds, all while managing a bunch of rowdy undergrad volunteer researchers. I was introduced to basic programming, learned how to use a wide range of imaging tools, and acted as a sort of "imaging consultant" for BrainSuite users. But, despite all this growth, I decided it was time to move on to supposedly bigger and better things and so I came to grad school~*
 
 current project
 -----
@@ -13,6 +13,8 @@ To complete my project, I have employed the sort-of open source PING dataset, de
 brainhack goals
 -----
 Despite my wide background in imaging methods and tools, I have never processed an fMRI scan of any kind. I'm not even 100% sure how the volumes are structured. As such, I'd like to stick my hands into the rsfMRI volumes available to me through PING, learn about various fMRI processing pipelines and how to turn rsfMRI volumes into data that can be used in a multimodal assessment of developmental connectivity. Kind of like a bootcamp in rsfMRI from A to Z. Any help for any aspect of the processing pipeline from what an rsfMRI volume is to analysis tools is very very welcome.
+
+If you want to know how to help more specifically, please check out how [here](https://github.com/mtl-brainhack-school-2018/nooralsh/blob/master/CONTRIBUTING.md).
 
 
 ### [pediatric imaging neurocognition and genetics (ping)](http://pingstudy.ucsd.edu/)
